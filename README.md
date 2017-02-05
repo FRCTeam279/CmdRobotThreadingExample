@@ -1,4 +1,4 @@
-# Project Name
+# CmdRobotThreadingExample
 
 This is an example command based robot project for FIRST Robotics which illustrates creating a thread to process a queue of objects in the background
 
@@ -64,7 +64,7 @@ The commands will all work while the robot is disabled. No need to enable
 
 ## Credits
 
-Michael Lehman
+Michael Lehman <drakoswraith@gmail.com>
 
 ## License
 
